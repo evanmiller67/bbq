@@ -2,7 +2,7 @@ Brock / Marcum Wedding BBQ Deliciousness
 ========================================
 
 
-### <span style="color: red">Needed?</span>  
+### Needed?  
 - Food/Sides 
     - Baked beans 
     - Potato salad 
