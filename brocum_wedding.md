@@ -29,7 +29,8 @@ Equates to ~45 lbs uncooked.
 #### Serving pieces
 - Foil half pans with lids
 - Serving tongs
-#### Individual settings
+
+#### Individual place settings
 - Paper plates
 
 
