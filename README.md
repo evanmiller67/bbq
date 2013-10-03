@@ -18,6 +18,21 @@ You should be able to distribute your choice of meats among any pork/beef/chicke
 - Charcoal
 - Wood chips/chunks
 - Spices
+    - Salt
+    - Pepper
+    - Paprika
+    - Onion Powder
+    - Chipotle Seasoning
+    - Sugar
+    - Cayenne pepper
+    - Ground Mustard
+    - Rosemary
+    - Thyme
+    - Paprika
+    - Bourbon
+    - White vinegar
+    - Red wine vinegar
+    - Apple cider vinegar
 
 #### Accessories
 - Buns?
