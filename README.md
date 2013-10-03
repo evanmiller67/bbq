@@ -37,8 +37,8 @@ You should be able to distribute your choice of meats among any pork/beef/chicke
 
 #### Accessories
 - Buns?
-    - Provence Bakery on 21st - 70 ct @ ~$25
-    - Kroger Bakery (8-pk) - 70ct @ ~ $23
+    - Provence Bakery on 21st - 68 ct @ $25
+    - Kroger Bakery (8-pk) - 68 ct @  $23
 - Condiments?
     - BBQ sauce
     - Onion

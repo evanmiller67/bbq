@@ -2,10 +2,10 @@ Brock / Marcum Wedding BBQ Deliciousness
 ========================================
 
 ### Done
+- Buns 
+    - Provence on 21st - $27.31
 
 ### To be picked up
-- Buns (70 ct) 
-    - Provence on 21st ~ $25
 - Sides (35 lbs)
     - Baked Beans (13 lbs) - $9 / 5lb (GFS)
     - Potato Salad (12 lbs) - $8 / 5lb (GFS)
