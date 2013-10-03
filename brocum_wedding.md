@@ -24,6 +24,13 @@ Equates to ~45 lbs uncooked.
 
 ## Dish it up
 #### Serving pieces
+- Catering service - $20 @ GFS
+    - 2 wire racks
+    - 2 full pans
+    - 4 half pans
+    - 2 spoons
+    - 2 forks
+    - 4 chaffing fuel
 - Foil half pans with lids * 4
 - Serving tongs * 4
 - Serving spoons * 4

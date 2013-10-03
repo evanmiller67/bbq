@@ -49,6 +49,13 @@ Figure 4 servings / lb of sides and 3 sides per plate = 75 lbs of sides
 - Cole Slaw
 
 ### Serving
+- Catering Service $20 @ GFS
+    - 2 wire racks
+    - 2 full pans
+    - 4 half pans
+    - 2 serving spoons
+    - 2 serving forks
+    - 4 chaffing fuels
 - Foil pans w/ lids
 - Tongs
 - Paper plates

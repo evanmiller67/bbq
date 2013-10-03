@@ -56,6 +56,13 @@ You should be able to distribute your choice of meats among any pork/beef/chicke
 #### Serving
 - Delivery in foil pans (with lids)
 - Serving utensils (tongs/fork)
+- Catering service $20 @ GFS
+    - 2 wire racks
+    - 2 full pans
+    - 4 half pans
+    - 2 serving spoons
+    - 2 serving forks
+    - 4 chaffing fuels
 - Plates
 - Flatware
 - Napkins / Paper towels
