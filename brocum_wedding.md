@@ -1,17 +1,6 @@
 Brock / Marcum Wedding BBQ Deliciousness
 ========================================
 
-
-### Needed?  
-- Food/Sides 
-    - Baked beans 
-    - Potato salad 
-    - Pasta salad 
-- Flatware
-- Napkins or paper towels?
-
-<br /> 
-
 ## Noms to make
 Sandwichs for ~70.  
 Equates to ~45 lbs uncooked.  
@@ -24,6 +13,10 @@ Equates to ~45 lbs uncooked.
     - Onion (1-2) 
     - Pickle (1 jar) 
     - Cole Slaw (1-2 lb) 
+- Sides
+    - Baked Beans
+    - Potato Salad
+    - Pasta Salad
 
 ## Dish it up
 #### Serving pieces
