@@ -52,3 +52,11 @@ Figure 4 servings / lb of sides and 3 sides per plate = 75 lbs of sides
 - Paper plates
 - Plasticware
 - Napkins / Paper towels
+
+<br />
+<br />
+
+## Info
+- Buns
+    - Kroger 70 @ ~ $23
+    - Provence bakery 70 @ ~ $25
