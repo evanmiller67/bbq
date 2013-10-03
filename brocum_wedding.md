@@ -7,16 +7,16 @@ Brock / Marcum Wedding BBQ Deliciousness
 - Buns (70 ct) 
     - Provence on 21st ~ $25
 - Sides (35 lbs)
-    - Baked Beans (13 lbs)
-    - Potato Salad (12 lbs)
-    - Cole Slaw (3 lb) 
-    - Pasta Salad (7 lbs)
+    - Baked Beans (13 lbs) - $9 / 5lb (GFS)
+    - Potato Salad (12 lbs) - $8 / 5lb (GFS)
+    - Cole Slaw (3 lb) - $8 / 5lb (GFS)
+    - Pasta Salad (7 lbs) - $9 / 5lb (GFS)
 - Condiments 
     - Onion (1-2) 
     - Pickle (1 jar) 
+    - BBQ Sauce (2 lg bottles)
 - Pork (30 lbs) 
 - Chicken (15 lbs) 
-- BBQ Sauce (2 lg bottles) 
 
 ## Noms to make
 Sandwichs for ~70.  
@@ -30,5 +30,5 @@ Equates to ~45 lbs uncooked.
 
 ## Stoke teh firez
 - Charcoal (4 bags)
-- Wood chips/chunks (@ bags)
+- Wood chips/chunks (2 bags)
 - Spices 
