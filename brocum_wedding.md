@@ -1,9 +1,9 @@
 Brock / Marcum Wedding BBQ Deliciousness
 ========================================
 
-## Done
+### Done
 
-## To be picked up
+### To be picked up
 - Buns (70 ct) 
     - Provence on 21st ~ $25
 
