@@ -1,22 +1,27 @@
 Brock / Marcum Wedding BBQ Deliciousness
 ========================================
 
+## Done
+
+## To be picked up
+- Buns (70 ct) 
+    - Provence on 21st ~ $25
+
 ## Noms to make
 Sandwichs for ~70.  
 Equates to ~45 lbs uncooked.  
 
 - Pork (30 lbs) 
 - Chicken (15 lbs) 
-- Buns (70 ct) 
 - BBQ Sauce (2 lg bottles) 
 - Condiments 
     - Onion (1-2) 
     - Pickle (1 jar) 
-    - Cole Slaw (1-2 lb) 
-- Sides
-    - Baked Beans
-    - Potato Salad
-    - Pasta Salad
+- Sides (35 lbs)
+    - Baked Beans (13 lbs)
+    - Potato Salad (12 lbs)
+    - Cole Slaw (3 lb) 
+    - Pasta Salad (7 lbs)
 
 ## Dish it up
 #### Serving pieces
