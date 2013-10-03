@@ -20,6 +20,7 @@ You should be able to distribute your choice of meats among any pork/beef/chicke
 - Spices
     - Salt
     - Pepper
+    - Celery Salt
     - Paprika
     - Onion Powder
     - Chipotle Seasoning
@@ -28,7 +29,7 @@ You should be able to distribute your choice of meats among any pork/beef/chicke
     - Ground Mustard
     - Rosemary
     - Thyme
-    - Paprika
+    - Cumin
     - Bourbon
     - White vinegar
     - Red wine vinegar
