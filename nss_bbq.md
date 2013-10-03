@@ -1,24 +1,23 @@
-pork/chicken
+NSS BBQ
+=======
 
-1/3 chicken
-2/3 pork
+### BBQ to make
+2:1 pork to chicken for ~100 people.
 
-100 ppl
+Requires ~65 lbs uncooked pork/chicken
+ 
 
-
-starting weight * (3 servings/2 lose half weight) 
-
-100 = (3/2) * x
-x = 65 lbs combined pork/chicken
-
-44 lb pork = $3.20 / lb   --- $141
-21 lb chicken = $1 / lb   --- $ 21
-                          =========
-                            $ 162
-
-charcoal / wood           --- $ 50
-                          =========
-                            $ 212
+| Item                    | Price |  
+| ----------------------- | ----: |  
+| 44 lb pork @ $3.20 / lb | $141  |  
+| 21 lb chicken @ $1 / lb | $21   |  
+| ----                    | ----- |  
+| *Subtotal*              | $162  |
+| ----                    | ----- |
+| Charcoal / wood         | $50   |
+| ----                    | ----- |
+| **Total**               | $212  |
+  
 
 sides
   potato salad (4 servings / lb)
