@@ -28,10 +28,6 @@ Equates to ~45 lbs uncooked.
 - Foil half pans with lids
 - Serving tongs
 
-#### Individual place settings
-- Paper plates
-
-
 ## Stoke teh firez
 - Charcoal
 - Wood chips/chunks
