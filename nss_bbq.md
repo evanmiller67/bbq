@@ -8,6 +8,7 @@ NSS BBQ
     - Green Beans
     - Corn Bread
 - Types of bbq sauce (add more?)
+- # of buns
 
 #### TODO
 - Prices on sides from Kroger
