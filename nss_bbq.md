@@ -45,3 +45,9 @@ Figure 4 servings / lb of sides and 3 sides per plate = 75 lbs of sides
 - Pickles
 - Cole Slaw
 
+### Serving
+- Foil pans w/ lids
+- Tongs
+- Paper plates
+- Plasticware
+- Napkins / Paper towels
