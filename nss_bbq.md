@@ -62,3 +62,7 @@ Figure 4 servings / lb of sides and 3 sides per plate = 75 lbs of sides
 - Buns
     - Kroger 70 @ ~ $23
     - Provence bakery 70 @ ~ $25
+- Sides
+    - Baked Beans - $9 / 5lb @ GFS
+    - Potato Salad - $8 / 5lb @ GFS
+    - Cole Slaw - $8 / 5 lb @ GFS
