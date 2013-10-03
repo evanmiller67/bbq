@@ -1,6 +1,20 @@
 NSS BBQ
 =======
 
+#### **** Needed ****
+- Distribution of sides
+- Types of sides (add?)
+    - Mac & Cheese
+    - Green Beans
+    - Corn Bread
+- Types of bbq sauce (add more?)
+
+#### TODO
+- Prices on sides from Kroger
+
+<br />
+<br />
+
 ### BBQ to make
 2:1 pork to chicken for ~100 people.
 
@@ -19,20 +33,15 @@ Requires ~65 lbs uncooked pork/chicken
 | **Total**               | $212  |
   
 
-sides
-  potato salad (4 servings / lb)
-  pasta salad  (4 servings / lb)
-  baked beans  (4 servings / lb)
-  cole slaw
-  onion
-  pickles
-  bbq sauce
+### Sides
+Figure 4 servings / lb of sides and 3 sides per plate = 75 lbs of sides
+- Potato Salad
+- Pasta Salad
+- Baked Beans
 
-  
-300 serviings of sides = 75 lbs
+### Condiments
+- BBQ Sauce
+- Onion
+- Pickles
+- Cole Slaw
 
-
-TODO:
-
-- Prices from Kroger on sides
-- 
