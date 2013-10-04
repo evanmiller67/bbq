@@ -1,28 +1,25 @@
 Brock / Marcum Wedding BBQ Deliciousness
 ========================================
 
-### Done
-- Buns 
-    - Provence on 21st - $27.31
-
-### To be picked up
-- Sides (35 lbs)
-    - Baked Beans (13 lbs) - $9 / 5lb (GFS)
-    - Potato Salad (12 lbs) - $8 / 5lb (GFS)
-    - Cole Slaw (3 lb) - $8 / 5lb (GFS)
-    - Pasta Salad (7 lbs) - $9 / 5lb (GFS)
-- Condiments 
-    - Onion (1-2) 
-    - Pickle (1 jar) 
-    - BBQ Sauce (2 lg bottles)
-- Pork (30 lbs) 
-- Chicken (15 lbs) 
-
 ## Noms to make
-Sandwichs for ~70.  
-Equates to ~45 lbs uncooked.  
+Sandwichs for ~70, 2 sides each
 
-## Dish it up
+## Done
+- Buns 
+    - Provence - $27.31
+- Sides (35 lbs)
+    - Baked Beans - $17.98
+    - Potato Salad - $17.98
+    - Cole Slaw - $7.99
+    - Pasta Salad - $15.98
+- Condiments 
+    - Onion - $2.70
+    - Pickle - $4 
+    - BBQ Sauce - $9.50
+- Pork (30 lbs) - $50.14
+- Chicken (15 lbs) - $23.58
+
+### Dish it up
 #### Serving pieces
 - Catering service - $20 @ GFS
     - 2 wire racks
@@ -31,11 +28,21 @@ Equates to ~45 lbs uncooked.
     - 2 spoons
     - 2 forks
     - 4 chaffing fuel
-- Foil half pans with lids * 4
-- Serving tongs * 4
+- Foil half pans * 4 - $3.96
+- Foil half lid * 8 - $7.92
+- Serving tongs - $4.99
+- Serving tongs (small) - $2.29
 - Serving spoons * 4
+- Clear bowl w/ service - $14.99
+- Black bowls for condiments - $3.98
+- Clear plastic squeeze bottle (bbq sauce) - $4.99
+- Foil - $19.99
 
-## Stoke teh firez
-- Charcoal (4 bags)
+### Stoke teh firez
+- Charcoal (3 bags) - $26.97
 - Wood chips/chunks (2 bags)
-- Spices 
+
+<br />
+<br />
+# Total
+### $308.17
