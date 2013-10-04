@@ -1,10 +1,10 @@
-Brock / Marcum Wedding BBQ Deliciousness
-========================================
+Brock / Marcum Wedding BBQ 
+==========================
+[Reheating instructions](brocum_reheat_service.md)
 
-## Noms to make
+## Noms
 Sandwichs for ~70, 2 sides each
 
-## Done
 - Buns 
     - Provence - $27.31
 - Sides (35 lbs)
@@ -23,8 +23,7 @@ Sandwichs for ~70, 2 sides each
 #### Food subtotal
 ##### $189.12
 
-### Dish it up
-#### Serving pieces
+## Dish it up
 - Catering service - $20 @ GFS
     - 2 wire racks
     - 2 full pans
@@ -46,9 +45,7 @@ Sandwichs for ~70, 2 sides each
 
 ### Stoke teh firez
 - Charcoal (3 bags) - $26.97
-- Wood chips/chunks (2 bags)
 
-<br />
 <br />
 # Total
 ### $335.43
