@@ -18,6 +18,10 @@ Sandwichs for ~70, 2 sides each
     - BBQ Sauce - $9.50
 - Pork (30 lbs) - $50.14
 - Chicken (15 lbs) - $23.58
+- Moar Chicken - $11.96
+
+#### Food subtotal
+##### $189.12
 
 ### Dish it up
 #### Serving pieces
@@ -32,11 +36,13 @@ Sandwichs for ~70, 2 sides each
 - Foil half lid * 8 - $7.92
 - Serving tongs - $4.99
 - Serving tongs (small) - $2.29
-- Serving spoons * 4
 - Clear bowl w/ service - $14.99
 - Black bowls for condiments - $3.98
 - Clear plastic squeeze bottle (bbq sauce) - $4.99
 - Foil - $19.99
+
+#### Service Subtotal
+##### $83.12
 
 ### Stoke teh firez
 - Charcoal (3 bags) - $26.97
@@ -45,4 +51,4 @@ Sandwichs for ~70, 2 sides each
 <br />
 <br />
 # Total
-### $308.17
+### $335.43
