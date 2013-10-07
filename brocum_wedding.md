@@ -2,7 +2,7 @@ Brock / Marcum Wedding BBQ
 ==========================
 [Reheating instructions](brocum_reheat_service.md)
 
-## Noms
+### Noms
 Sandwichs for ~70, 2 sides each
 
 - Buns 
@@ -20,10 +20,9 @@ Sandwichs for ~70, 2 sides each
 - Chicken (15 lbs) - $23.58
 - Moar Chicken - $11.96
 
-#### Food subtotal
-##### $189.12
+##### Food subtotal - $189.12
 
-## Dish it up
+### Dish it up
 - Catering service - $20 @ GFS
     - 2 wire racks
     - 2 full pans
@@ -40,8 +39,7 @@ Sandwichs for ~70, 2 sides each
 - Clear plastic squeeze bottle (bbq sauce) - $4.99
 - Foil - $19.99
 
-#### Service Subtotal
-##### $83.12
+##### Service Subtotal - $83.12
 
 ### Stoke teh firez
 - Charcoal (3 bags) - $26.97
