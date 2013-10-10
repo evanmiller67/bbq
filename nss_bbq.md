@@ -5,17 +5,23 @@ Location: 9 Lea Avenue Nashville, TN 37210
 
 #### **** Needed ****
 - Distribution of sides
-- Types of sides (add?)
+- Available sides (add?)
     - Mac & Cheese
-    - Green Beans
-    - Corn Bread
+    - Red potato salad
+    - German potato salad
+    - American potato salad
+    - Southern potato salad
+    - Ranch seashell pasta salad
+    - Italian pasta salad
+    - Baked beans
+    - Macaroni & cheddar salad
+    - Macaroni salad
+    - Cole slaw
+    - Amish recipe potato salad
+    - Mashed potatoes
 - Types of bbq sauce (add more?)
 - # of buns
 
-#### TODO
-- Prices on sides from Kroger
-
-<br />
 <br />
 
 ### BBQ to make
@@ -51,6 +57,8 @@ Figure 4 servings / lb of sides and 3 sides per plate = 75 lbs of sides
 ### Serving
 - Foil pans w/ lids
 - Tongs
+- Bowls for sides
+- Spoons/Forks for serving sides
 - Paper plates
 - Plasticware
 - Napkins / Paper towels
@@ -59,9 +67,11 @@ Figure 4 servings / lb of sides and 3 sides per plate = 75 lbs of sides
 <br />
 
 ## Info
+Bulk food stores like Costco, Sam's Club, or GFS will be the best place to purchase food (sides/meat).  
+[Wedding info](brocum_wedding.md) - Was service for ~70 and cooked more than enough. I would recommend this amount for this event.  
 - Buns
     - Kroger 70 @ ~ $23
-    - Provence bakery 70 @ ~ $25
+    - Provence bakery 70 @ ~ $25 (more expensive, but better)
 - Sides
     - Baked Beans - $9 / 5lb @ GFS
     - Potato Salad - $8 / 5lb @ GFS
@@ -73,3 +83,13 @@ Figure 4 servings / lb of sides and 3 sides per plate = 75 lbs of sides
     - 2 serving spoons
     - 2 serving forks
     - 4 chaffing fuels
+
+## Things in hand
+- 1 jar pickles
+- 2 wire racks
+- 1 serving bowl
+- 2 squeeze bottles for bbq sauce
+- 2 small serving tongs
+- Serving tongs - $4.99
+- Clear bowl w/ service - $14.99
+- Black bowls for condiments - $3.98
