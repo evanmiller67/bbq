@@ -47,3 +47,6 @@ Sandwichs for ~70, 2 sides each
 <br />
 # Total
 ### $335.43
+#### Rick Payment - $160
+# Remaining
+### $175.43
